@@ -1,4 +1,4 @@
-package life.majiiang.community;
+package life.chenmin.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

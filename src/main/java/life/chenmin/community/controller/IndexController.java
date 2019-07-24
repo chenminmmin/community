@@ -1,11 +1,9 @@
-package life.majiiang.community.Controller;
+package life.chenmin.community.controller;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 
-@Controller
+@Controller//吧当前类作为入流API的一个承载者
 public class IndexController {
 
     @GetMapping("/")
